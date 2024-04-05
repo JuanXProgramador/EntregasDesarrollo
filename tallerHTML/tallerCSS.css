@@ -1,0 +1,32 @@
+
+#inicio {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    background-color:cadetblue;
+}
+
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}
+
+p {
+    font-family: serif, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+h3 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h2 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    color: azure;
+}
+
+h4 {
+    font-family: cursive;
+    text-align: center;
+    color:dimgray
+}
